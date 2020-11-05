@@ -9,4 +9,4 @@ export const signUp = (props: Props) => {
             
         </div>
     );
-};
+};  
